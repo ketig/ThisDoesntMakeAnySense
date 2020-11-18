@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\bin\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.exe
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\bin\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.deps.json
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\bin\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\bin\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\bin\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.dll
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\bin\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.pdb
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\obj\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\obj\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\obj\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\obj\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.dll
+C:\Users\User\source\repos\ConsoleAppThisDoesntMakeAnySense\obj\Debug\netcoreapp3.1\ConsoleAppThisDoesntMakeAnySense.pdb
